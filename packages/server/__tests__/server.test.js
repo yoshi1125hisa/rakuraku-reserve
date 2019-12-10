@@ -2,6 +2,6 @@
 
 const server = require('..');
 
-describe('server', () => {
+describe('@rakuraku-reserve/server', () => {
     it('needs tests');
 });
